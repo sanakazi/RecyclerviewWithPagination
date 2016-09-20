@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/myworkspace"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/activity_stream"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/activity_stream" />
+        <item
+            android:id="@+id/chats_and_calls"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/chats_and_calls" />
+        <item
+            android:id="@+id/tasks"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/tasks" />
+        <item
+            android:id="@+id/workflow"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/workflow" />
+
+        <item
+            android:id="@+id/calendar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/calendar" />
+        <item
+            android:id="@+id/my_drive"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/my_drive" />
+        <item
+            android:id="@+id/employees"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/employees" />
+        <item
+            android:id="@+id/company_drive"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/company_drive" />
+    </group>
+
+    <group
+        android:id="@+id/groups"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/group"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/groups" />
+
+</group>
+</menu>
+

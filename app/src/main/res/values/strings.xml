@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RaybookProject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+   <!--   Navigation menu titles for activity_main_drawer.xml         -->
+
+    <string name="activity_stream">Activity Stream</string>
+    <string name="chats_and_calls">Chats and Calls</string>
+    <string name="tasks">Tasks</string>
+    <string name="workflow">Workflow</string>
+    <string name="calendar">Calendar</string>
+    <string name="my_drive">My Drive</string>
+    <string name="employees">Employees</string>
+    <string name="company_drive">Company Drive</string>
+    <string name="groups">Groups</string>
+
+    <!--   Activity Stream related        -->
+
+    <!--   activity_stream_fragment_item   -->
+    <string name="raymond"><b>Raymond</b></string>
+    <string name="txt_2">A new employee has been added</string>
+    <string name="like"><b>Like</b></string>
+    <string name="comment"><b>Comments</b></string>
+</resources>
